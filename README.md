@@ -4,7 +4,7 @@
   <img width="150" src="https://github.com/agusnuryady/ToDoApp/blob/master/src/component/img/todoappicon.jpg"/>
   </p>
   <p align="center">
-  Built with React Native.
+  Built with React Native + Redux Persist
    </p>
 
 ## Table of Contents
